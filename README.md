@@ -75,7 +75,7 @@ weather-prediction-usingML/
 
 **Sandipan Saha**
 B.Tech CSE Student
-Interested in Machine Learning & Data Science
+Interested in Machine Learning , Full Stack Development and Blockchain Development 
 
 ## 📜 License
 
